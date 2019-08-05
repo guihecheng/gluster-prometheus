@@ -31,7 +31,7 @@ disabled = false
 [collectors.gluster_peer_counts]
 name = "gluster_peer_counts"
 sync-interval = 5
-disabled = false
+disabled = true
 
 [collectors.gluster_peer_info]
 name = "gluster_peer_info"
